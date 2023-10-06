@@ -57,7 +57,7 @@ class _WaterCycleState extends State<WaterCycle> {
 
   loadVideoPlayer() {
     controller =
-        VideoPlayerController.asset("assets/Videos/lv_0_٢٠٢٣١٠٠٥٢٢٣٦١١.mp4");
+        VideoPlayerController.asset("assets/Videos/WaterCycle.mp4");
     controller.addListener(() {
       setState(() {});
     });
