@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "296237637244",
+    "project_id": "hydro-alert",
+    "storage_bucket": "hydro-alert.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296237637244:android:4841550ed5cd79d757f3f9",
+        "android_client_info": {
+          "package_name": "com.example.hydro_alert"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiXRhc4UFX7d7zQxiDtsCkKkc-_mg9QKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
