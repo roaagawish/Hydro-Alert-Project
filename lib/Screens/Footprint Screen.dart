@@ -159,6 +159,8 @@ class _FootprintScreenState extends State<FootprintScreen> with TickerProviderSt
                            }
                          });
                   }, icon: const Icon(Icons.add)),
+                  Lottie.asset("assets/animation_redDots.json"),
+
                 ],
               ),
             ),
